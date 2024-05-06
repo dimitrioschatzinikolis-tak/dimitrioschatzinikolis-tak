@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-- 🔭 I am currently working on automating chemical experiments with robotics
+- 🔭 I am currently working on automating chemical experiments with robots
